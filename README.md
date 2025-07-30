@@ -32,3 +32,7 @@ Organize your tasks into **To Do**, **Done**, and **Trash**, toggle between **li
 ```bash
 git clone https://github.com/YOUR_USERNAME/task-zen.git
 cd task-zen
+```
+- npm install
+- npm start
+
