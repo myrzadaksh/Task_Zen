@@ -1,8 +1,6 @@
 Task Zen is a minimalistic and theme-aware task manager built with React.  
 Organize your tasks into **To Do**, **Done**, and **Trash**, toggle between **light/dark mode**, and filter tasks in real time.
 
-![screenshot](./screenshot.png)
-
 ---
 
 ## ✨ Features
